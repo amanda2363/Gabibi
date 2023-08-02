@@ -1,1 +1,0 @@
-alert("Eu sou uma janela chata JS")
